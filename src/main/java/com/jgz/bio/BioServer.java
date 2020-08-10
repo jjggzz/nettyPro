@@ -11,6 +11,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * BIO线程模型示例
  * 每有一个客户端连接就新开一个线程去处理该客户端的请求
  * @author jgz
  * @date 2020/8/10
